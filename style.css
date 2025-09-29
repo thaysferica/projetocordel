@@ -46,3 +46,13 @@ header, footer{
 header, footer a:hover{
     text-decoration:underline;
 }
+
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+    font-family: var(--fonte3);
+    font-size: 2vh;
+
+}
